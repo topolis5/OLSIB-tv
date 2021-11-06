@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <options>
+	<playlist_limits>nosavefav,no_save_fav,no_save_playlist,sort_ch</playlist_limits>
+	</options>
+    <typeList><![CDATA[start]]></typeList> 
+    <background-image>
+            <![CDATA[https://olsib.at.ua/OLSIB/abstract-1280x720-huawei-matebook-e-2019-hd-21830.jpg]]>
+        </background-image>
+        <title>
+            <![CDATA[✬✬✬ OLSIB-tv ✬✬✬]]>
+        </title>
+		<all_logo_30x30><![CDATA[https://media.giphy.com/media/103JnbaqvpBFGE/giphy.gif]]></all_logo_30x30>
+		<items>
+		<channel>
+    <title><![CDATA[Информация]]></title>
+    <logo_30x30><![CDATA[https://olsib.at.ua/logo/info.png]]></logo_30x30>
+    <playlist_url><![CDATA[https://olsib.at.ua/OLSIB/inform.xml]]></playlist_url>
+	<description>
+            <![CDATA[]]>
+        </description>
+  </channel>
+		<channel>
+        <logo_30x30><![CDATA[https://olsib.at.ua/logo/search.png]]></logo_30x30>
+        <title><![CDATA[Поиск]]></title>	
+        <playlist_url><![CDATA[SearchName]]></playlist_url>
+        <description><![CDATA[<center><br><img src="https://olsib.at.ua/logo/What-is-Hacker.jpg" width="320" height="380" ></center>]]></description>
+		</channel>
+		<channel>
+        <title>
+            <![CDATA[4K Кинозал]]>
+        </title>
+        <logo_30x30>
+            <![CDATA[https://olsib.at.ua/logo/4K.jpg]]>
+        </logo_30x30>
+        <description>
+            <![CDATA[<center><br><img src="https://olsib.at.ua/logo/4K.jpg"width='200'></img></center><br><marquee direction="down"behavior="slide"><font color="#FFFF00"><center><h2>4K Кинозал</h2></font></center></marquee>]]>
+        </description>
+        <playlist_url>
+            <![CDATA[http://f0493618.xsph.ru/?do=/fml&bid=91-4k-2]]>
+        </playlist_url>
+    </channel>
+
+</items>
